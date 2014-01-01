@@ -1,0 +1,7 @@
+/Core/Conf/config.php
+/Temp
+!/Temp/KEEPME
+/Public/Uploads
+/Uploads
+!/Uploads/KEEPME
+!/Uploads/avatar/KEEPME
